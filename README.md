@@ -16,7 +16,7 @@ As Arepas são um alimento tradicional em alguns países da América Latina, ond
 ## Vista previa del proyecto
 Se você quiser dar uma olhada no projeto, recomendo:
 
-![Captura do proyecto](https://suarezdarwins.github.io/Receita_das_arepas/)
+[Visitar](https://suarezdarwins.github.io/Receita_das_arepas/)
 
 
 ## Instalación 
