@@ -14,12 +14,9 @@ Receita de Arepas (Venezuelanas) feito com HTML
 As Arepas são um alimento tradicional em alguns países da América Latina, onde o milho é o ingrediente principal da dieta básica. 
 
 ## Vista previa del proyecto
-Si quieres hechas un vistazo al proyecto, te recomiendo:
+Se você quiser dar uma olhada no projeto, recomendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-
+![Captura do proyecto](https://suarezdarwins.github.io/Receita_das_arepas/)
 
 
 ## Instalación 
